@@ -1,6 +1,5 @@
 ![GitHub Cover](https://i.ibb.co.com/Hfn5YCnC/Orange-Blue-Modern-Digital-Marketing-Agency-Banner.png)
 
-<h1 align="center">Hi 👋, I'm Jeba Khatun</h1>
 <h1 align="center">👋 Hey there, I'm <span style="color:#00bfff;">Jeba Khatun</span></h1>
 
 <p align="center">
