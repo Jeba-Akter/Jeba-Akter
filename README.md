@@ -5,12 +5,12 @@
 
 ---
 
-### 🌱 About Me
+### About Me
 I'm a Front-End Developer with a strong focus on building dynamic, responsive, and scalable web applications. Currently, I’m in my 8th semester of a Diploma in Engineering in Computer Science and Technology at Dinajpur Polytechnic Institute.I specialize in React, Node.js, Express, and MongoDB, and I’m deeply passionate about crafting innovative and user-friendly web solutions. I’m constantly exploring and learning modern full-stack technologies to stay up-to-date in the ever-evolving tech world.I'm always eager to take on new challenges and contribute to meaningful and impactful web development projects.
 
 ---
 
-### 🚀 Portfolio Highlights
+### Portfolio Highlights
 Here are some of my favorite projects:  
 
 🌟 **[PathFinder Pro](https://pathfinder-pro-b76a5.web.app/)**  
