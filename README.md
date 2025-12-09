@@ -1,4 +1,4 @@
-![GitHub Cover](https://i.ibb.co.com/Hfn5YCnC/Orange-Blue-Modern-Digital-Marketing-Agency-Banner.png)
+![GitHub Cover](https://i.ibb.co.com/tMKnK2dz/Yellow-Photo-Header-General-Linkedin-Banner.png)
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#00bfff;">Jeba Khatun</span></h1>
 
